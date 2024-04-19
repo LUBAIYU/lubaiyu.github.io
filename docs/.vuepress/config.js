@@ -3,6 +3,7 @@ import {viteBundler} from '@vuepress/bundler-vite'
 import {plumeTheme} from 'vuepress-theme-plume'
 
 export default defineUserConfig({
+    base: '/',
     lang: 'zh-CN',
     theme: plumeTheme({}),
     bundler: viteBundler(),
