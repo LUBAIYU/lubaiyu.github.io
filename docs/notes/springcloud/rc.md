@@ -5,7 +5,7 @@ tags:
   - 远程调用
 article: true
 createTime: 2024/04/20 15:53:03
-permalink: /article/ds7h8eba/
+permalink: /cloud/ds7h8eba/
 ---
 
 #### 1.RestTemplate

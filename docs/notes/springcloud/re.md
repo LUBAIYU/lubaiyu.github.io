@@ -3,7 +3,7 @@ title: 注册中心
 author: 路白榆
 article: true
 createTime: 2024/04/20 15:56:03
-permalink: /article/as7h8ebp/
+permalink: /cloud/as7h8ebp/
 ---
 
 #### 1.Eureka

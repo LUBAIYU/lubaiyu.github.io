@@ -11,6 +11,7 @@ export default defineUserConfig({
             name: '路白榆',
             description: '一名普普通通的编程爱好者',
             circle: true,
+            location: 'GuangZhou China'
         },
         navbar: [
             {text: '首页', link: '/', icon: 'material-symbols:home-outline'},
@@ -52,14 +53,18 @@ export default defineUserConfig({
                     link: '/cloud/',
                     sidebar: [
                         {
-                            items: ['rc', 're']
+                            items: ['rc', 're', 'rb', 'gw']
                         }
                     ]
                 },
                 {
                     dir: 'middleware',
                     link: '/center/',
-                    sidebar: "auto"
+                    sidebar: [
+                        {
+                            items: ['docker', 'rabbitmq', 'redis', 'nginx']
+                        }
+                    ]
                 }
             ]
         }
