@@ -4,9 +4,8 @@ author: 路白榆
 tags:
   - 面向切面编程
   - spring特性
-article: true
 createTime: 2024/04/20 13:13:03
-permalink: /article/ds7h8ebp/
+permalink: /spring/ds7h8ebp/
 ---
 
 面向切面编程

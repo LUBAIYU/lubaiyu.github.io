@@ -33,7 +33,7 @@ export default defineUserConfig({
                         link: '/center/',
                     }
                 ]
-            }
+            },
         ],
         notes: {
             dir: '/notes/',
@@ -53,7 +53,7 @@ export default defineUserConfig({
                     link: '/cloud/',
                     sidebar: [
                         {
-                            items: ['rc', 're', 'rb', 'gw']
+                            items: ['rc', 're', 'rb', 'gw','dubbo']
                         }
                     ]
                 },
@@ -66,7 +66,7 @@ export default defineUserConfig({
                         }
                     ]
                 }
-            ]
+            ],
         }
     }),
     bundler: viteBundler(),
