@@ -3,7 +3,7 @@ title: 简易sdk开发和使用
 createTime: 2024/05/09 14:33:00
 author: 路白榆
 tags:
-  - sdk
+  - SDK
   - 工具包
 permalink: /article/t78u23lt/
 ---
